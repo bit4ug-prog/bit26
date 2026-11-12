@@ -1,0 +1,7 @@
+host,device_type
+192.168.10.11,cisco_ios
+192.168.10.12,cisco_ios
+192.168.10.13,cisco_ios
+192.168.10.14,cisco_ios
+192.168.10.15,cisco_ios
+192.168.10.16,cisco_ios
